@@ -1,4 +1,4 @@
-useState
+useState - hooks - function
 
 const [state, setState] = useState(initialValue)
 
